@@ -1,0 +1,45 @@
+PCB statistics report
+=====================
+- Date: Sat 23 Dec 2023 10:26:44 PM CAT
+- Project: MotorSpeedControl
+- Board name: MotorSpeedControl
+
+Board
+-----
+- Width: unknown
+- Height: unknown
+- Area: unknown
+
+Pads
+----
+- Through hole: 34
+- SMD: 0
+- Connector: 0
+- NPTH: 0
+
+Vias
+----
+- Through vias: 0
+- Blind/buried: 0
+- Micro vias: 0
+
+Components
+----------
+
+|              | Front Side | Back Side | Total |
+|--------------|------------|-----------|-------|
+|THT:          |         13 |         0 |    13 |
+|SMD:          |          0 |         0 |     0 |
+|Unspecified:  |          0 |         0 |     0 |
+|Total:        |         13 |         0 |    13 |
+
+Drill holes
+-----------
+
+| Count | Shape |     X Size |     Y Size | Plated | Via/Pad | Start Layer | Stop Layer |
+|-------|-------|------------|------------|--------|---------|-------------|------------|
+|    18 | Round | 31.50 mils | 31.50 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|     9 | Round | 43.31 mils | 43.31 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|     3 | Round | 39.37 mils | 39.37 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|     2 | Round | 19.69 mils | 19.69 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|     2 | Round | 51.97 mils | 51.97 mils |    PTH |     Pad |        F.Cu |       B.Cu |
